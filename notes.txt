@@ -1,0 +1,2 @@
+uname = enigma1
+pass = 12345
